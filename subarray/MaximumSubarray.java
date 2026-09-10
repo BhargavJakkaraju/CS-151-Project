@@ -4,7 +4,7 @@ package subarray;
 
 Author: Sharif
 Partner 1: Bao
-Partner 2: June
+Partner 2: Bhargav
 
 */
 
